@@ -1,0 +1,28 @@
+.containerPrincipal{
+  display: grid;
+  gap: 15px;
+}
+
+.alinhamento{
+  margin-right: 12px;
+}
+.alinhamentoEmail{
+  margin-right: 7px;
+}
+
+.lista{
+  list-style-type: none;
+}
+
+.Carreiras{
+  margin-left: 5%
+}
+
+.enviar{
+  text-align: center;
+  width: 82px;
+}
+
+h1{
+  text-align: center;
+}
